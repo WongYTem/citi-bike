@@ -2,7 +2,7 @@
 
 The sharebike system data are retrieved from Citi Bike System Data webpage: https://www.citibikenyc.com/system-data
 
-## 1. neural network written in Keras (TensorFlow backend) to predicting number of bike trip per day 
+## 1. Neural Network written in Keras to predicting number of bike trip per day 
 ###  Source of data 
 The citibike data used for NN is from Q4 (September, October, November, December) of 2019 and 2020
 
