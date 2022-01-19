@@ -1,4 +1,4 @@
-# Citi-bike
+# Citi-bike data analysis
 
 The sharebike system data are retrieved from Citi Bike System Data webpage: https://www.citibikenyc.com/system-data
 
@@ -9,6 +9,9 @@ The citibike data used for NN is from Q4 (September, October, November, December
 Since weather may play an important role in affecting the usage of bikes, weather data of the same period will be taken into account in the model
 Weather data of New York City from https://www.ncdc.noaa.gov/cdo-web/search. 
 New York Central Park is selected as the representative of the New York weather 2019 and 2020 Q4.
+![image](https://user-images.githubusercontent.com/97471111/150048780-b8a7e0bf-bd37-4df7-b358-bdc1cde613b4.png)
+![image](https://user-images.githubusercontent.com/97471111/150048798-47b9bd81-bbf2-4fbd-8a3e-44a879b0dbfc.png)
+R2 score IS 0.95 means that the model is able to predict the data pretty well
 
 ###   Performance
 
